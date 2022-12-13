@@ -1,0 +1,23 @@
+manifestVersion: 1
+id: bos-cli
+name: bos-cli
+tagline: todo.
+icon: https://i.imgur.com/bhN7ebY.png
+category: Finance
+version: "1.0.0"
+description: >- 
+  TODO.
+developer: jaonoctus
+website: https://jaonoct.us
+submitter: jaonoctus
+submission: https://github.com/jaonoctus
+repo: https://github.com/jaonoctus/umbrel-bos-app
+support: https://github.com/jaonoctus/umbrel-bos-app/issues
+gallery:
+  - https://i.imgur.com/2p9gHFw.png
+  - https://i.imgur.com/S4jVx5S.png
+  - https://i.imgur.com/2V0QvsE.png
+dependencies:
+  - lightning
+path: ""
+port: 4353
